@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/huangzhenhong/react-youtube.git
-> cd ReduxSimpleStarter
+> cd react-youtube
 > npm install
 > npm start
 ```
